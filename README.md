@@ -3,6 +3,8 @@
 ## Overview
 Octoprismo Dashboard is a modern, responsive web interface designed for project management and team collaboration. The dashboard features a clean, intuitive layout with a sidebar navigation, project cards, and user activity tracking.
 
+This project was created as part of The Odin Project's Intermediate CSS/HTML coursework.
+
 ## Features
 - **Intuitive Navigation**: Sidebar menu for easy access to different sections
 - **Project Cards**: Visual representation of projects with color-coded priority indicators
@@ -17,31 +19,11 @@ Octoprismo Dashboard is a modern, responsive web interface designed for project 
 - Modern Normalize CSS for cross-browser consistency
 - Google Fonts (Montserrat, Bungee Tint)
 
-## Getting Started
-
-### Prerequisites
-- Node.js (for npm packages)
-
-### Installation
-1. Clone the repository: `git clone https://github.com/arewhatyouit/optoprismo-dashboard.git`
-2. Navigate to the project directory: `cd optoprismo-dashboard`
-3. Install dependencies: `npm install`
-4. Open `index.html` in your browser to view the dashboard.
+## Live Version
+Check out the live version of the dashboard at [https://dashboard.octoprismo.com/](https://dashboard.octoprismo.com/)
 
 ## Customization
 The dashboard uses a modular CSS approach, making it easy to customize:
 - Color schemes can be modified in the CSS variables
 - Card layouts can be adjusted through the grid template properties
 - Add additional components by following the existing HTML/CSS patterns
-
-## Browser Support
-- Chrome (latest)
-- Firefox (latest)
-- Safari (latest)
-- Edge (latest)
-
-## License
-[Add your license information here]
-
-## Contact
-[Your contact information]
